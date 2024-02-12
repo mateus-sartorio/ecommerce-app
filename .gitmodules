@@ -1,0 +1,6 @@
+[submodule "ecommerce_app_frontend"]
+	path = ecommerce_app_frontend
+	url = https://github.com/mateus-sartorio/ecommerce_app_frontend.git
+[submodule "ecommerce_app_backend"]
+	path = ecommerce_app_backend
+	url = https://github.com/mateus-sartorio/ecommerce_app_backend.git
