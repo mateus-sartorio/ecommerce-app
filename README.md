@@ -14,18 +14,18 @@
 
 ## 🔥 Features
 
-### 🖥️/📲 Interface minimalista que se adequa a todas as telas
+### 📲 Minimalistic interface
 
 <div align="center">
-  <img src="https://github.com/mateus-sartorio/corenotes/blob/main/assets/laptop.png" alt="" width="49%"/>
-  <img src="https://github.com/mateus-sartorio/corenotes/blob/main/assets/phone.png" alt="" width="40%"/>
+  <img src="https://github.com/mateus-sartorio/ecommerce-app/blob/main/assets/images/pic1.png" alt="" width="30%"/>
+  <img src="https://github.com/mateus-sartorio/ecommerce-app/blob/main/assets/images/pic2.png" alt="" width="30%"/>
 </div>
 <br/>
 
 
 ## 🍄 Our philosophy
 
-Este projeto destina-se a ser simples e fácil de usar. As funcionalidades são mantidas mínimas, mas refinadas.
+This project is meant to be simple and easy to use. Features are kept minimal but polished.
 
 <br/>
 
@@ -145,15 +145,15 @@ npm start
 
 ## ⚖️ License:
 
-Este programa é um software livre: você pode redistribuí-lo e/ou modificá-lo sob os termos da Licença Pública Geral GNU, conforme publicada pela Free Software Foundation; seja a versão 3 da Licença, ou (a seu critério) qualquer versão posterior.
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-Este programa é distribuído na esperança de que seja útil, mas SEM QUALQUER GARANTIA; sem mesmo a garantia implícita de COMERCIABILIDADE ou ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA. Consulte a Licença Pública Geral GNU para mais detalhes.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-Você deveria ter recebido uma cópia da Licença Pública Geral GNU juntamente com este programa. Se não recebeu, consulte [www.gnu.org/licenses/](https://www.gnu.org/licenses/).
+You should have received a copy of the GNU General Public License along with this program.  If not, see [https://www.gnu.org/licenses](https://www.gnu.org/licenses).
 
-Este programa é lançado sob a licença GNU GPL v3+.
+This program is released under license GNU GPL v3+ license.
 
 
 ## 🔧 Support:
 
-Por favor reporte qualquer problema com a aplicação [github.com/mateus-sartorio/corenotes](https://github.com/mateus-sartorio/corenotes).
+Kindly report any issues with the application on its official repo on [github.com/mateus-sartorio/ecommerce-app](https://github.com/mateus-sartorio/ecommerce-app).
