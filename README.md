@@ -22,18 +22,6 @@
 </div>
 <br/>
 
-### 🎨 Cores para todos os gostos
-
-<div align="center">
-  <img src="https://github.com/mateus-sartorio/corenotes/blob/main/assets/colors.png" alt="" width="80%"/>
-</div>
-
-### 🎨/⭐ Pesquise por cores e favoritos
-
-<div align="center">
-  <img src="https://github.com/mateus-sartorio/corenotes/blob/main/assets/filters.png" alt="" width="80%"/>
-</div>
-
 
 ## 🍄 Our philosophy
 
